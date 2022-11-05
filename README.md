@@ -18,5 +18,5 @@
 ## 我的小站:
 - [熊喵小窝](http://ppxm.cn/)
 - [熊喵的小宇宙](http://blog.ppxm.cn/)
-- [熊喵Java](http://wiki.ppxm.cn/)
+- [熊喵Java](http://java.ppxm.cn/)
 - [熊喵片影](http://py.ppxm.cn/)
