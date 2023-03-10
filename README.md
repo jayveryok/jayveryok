@@ -1,22 +1,43 @@
-## 个人介绍：
-摆烂大学生，CV工程师。
+### Hi there, I'm [Jay!](http://ppxm.cn/) 👋
+Hi, I'm Jay, a passionate self-taught frontEnd web developer from China.
+<br />
 
-致力打造完善的Java知识体系。
+- 🔭 I’m currently working on my personal project
+- 🌱 I’m currently learning Java & Vue
+- 💬 Ask me about anything [here](https://github.com/jayveryok/jayveryok/issues)
+- ⚡ Fun fact: I :heart: :dog:s
 
-## 技能：
-数据库（MySQL/Redis）
+### My Tech Stack
 
-前端（JQuery/NodeJS/Vue/小程序）
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Apache](http://img.shields.io/badge/-Apache-E11E27?style=flat-square&logo=apache)
+![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![PHP](http://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
+![WordPress](http://img.shields.io/badge/-WordPress-0073AA?style=flat-square&logo=wordpress&logoColor=ffffff)
+![OpenCart](http://img.shields.io/badge/-OpenCart-0080C3?style=flat-square&logo=opencart&logoColor=ffffff)
 
-后端（Java/SpringBoot/MyBatis…）
+#### Frontend
+![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Bootstrap](http://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
-计算机基础（数据结构与算法/计网/操作系统/设计模式/Linux）
+#### Database
+![MySQL](http://img.shields.io/badge/-MySQL-007599?style=flat-square&logo=MySQL&logoColor=ffffff)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
-## 很喜欢的一句话：
-问渠那得清如许？为有源头活水来。
+<!-- **Languages and Tools:**  
 
-## 我的小站:
-- [熊喵小窝](http://ppxm.cn/)
-- [熊喵的小宇宙](http://blog.ppxm.cn/)
-- [熊喵Java](http://java.ppxm.cn/)
-- [熊喵片影](http://py.ppxm.cn/)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
+
+![Jay's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=jayveryok&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
