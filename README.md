@@ -1,11 +1,11 @@
 ### Hi there, I'm [Jay!](http://ppxm.cn/) 👋
-Hi, I'm Jay, a passionate self-taught frontEnd web developer from China.
+Hi, I'm Jay, a passionate self-taught Java backEnd developer from China.
 <br />
 
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning Java & Vue
 - 💬 Ask me about anything [here](https://github.com/jayveryok/jayveryok/issues)
-- ⚡ Fun fact: I :heart: :dog:s
+- ⚡ Fun fact: I :heart: :video_game:s
 
 ### My Tech Stack
 
