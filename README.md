@@ -5,7 +5,7 @@ Hi, I'm Jay, a passionate self-taught Java backEnd developer from China.
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning Java & Vue
 - 💬 Ask me about anything [here](https://github.com/jayveryok/jayveryok/issues)
-- ⚡ Fun fact: I :heart: :video_game:s
+- ⚡ Fun fact: I :heart: :video_game:
 
 ### My Tech Stack
 
